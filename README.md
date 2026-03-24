@@ -1,10 +1,21 @@
-# Aakshat Hariharan
+# Hey, I'm Aakshat 
 
-I'm Aakshat Hariharan — a security researcher, OSINT analyst, and full-stack developer who builds things that matter and finds things people didn't know were findable.
-My work sits at the intersection of offensive security and practical engineering. On the security side, I conduct web application penetration tests, perform infrastructure assessments, and specialize in OSINT — the art of turning publicly available information into actionable intelligence. I've independently conducted full black-box infrastructure assessments, identifying critical vulnerabilities including CVE-2024-6387 (regreSSHion) and WAF bypass vectors that completely defeated enterprise-grade protections.
-On the engineering side, I build production-grade software. PlanIt is a full-stack event management platform handling real-time check-in, guest coordination, WebRTC push-to-talk, and offline sync — deployed, live, and used by actual organizers. BrowserBricker is a remote device management system with a hardened security architecture: geofencing, DOM self-healing, SHA-256 hashing, and persistent service workers. These aren't toy projects — they're real infrastructure.
-I've accumulated certifications across ethical hacking, cyber resilience, network analysis, Python, and prompt engineering — building a technical foundation that combines hands-on practice with structured learning. Currently deepening expertise in Python tooling and network scanning, with a custom Nmap-based network scanner in active development.
-I believe the best security researchers understand both sides: how systems break and how to build them better.
+Security researcher, OSINT analyst, and full-stack developer.
+
+I break things to understand them and build things that last. My work 
+spans offensive security. Web app pentesting, infrastructure assessment, 
+and open-source intelligence, and full-stack engineering, where I ship 
+production software that real people use.
+
+I've independently identified critical infrastructure vulnerabilities, 
+built hardened remote management systems, and developed platforms handling 
+real-time coordination at scale. Not portfolio projects instead actual deployed 
+software and actual security work.
+
+Currently deepening expertise in Python, network tooling, and low-level 
+security research.
+
+> *"The best way to understand how something breaks is to build it yourself."*
 
 ---
 
