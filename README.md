@@ -1,6 +1,6 @@
 # Hey, I'm Aakshat 
 
-Security researcher, OSINT analyst, and full-stack developer.
+Ethical Hacker / Security Researcher, OSINT analyst, and full-stack developer.
 
 I break things to understand them and build things that last. My work 
 spans offensive security. Web app pentesting, infrastructure assessment, 
