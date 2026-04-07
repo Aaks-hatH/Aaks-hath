@@ -85,7 +85,7 @@ Prompt Engineering: Cloud Computing & IoT Hacking in the Era of GenAI — Jan 20
 
 Learn Python 3 — Mar 2026
 
-![Learn Python 3](https://raw.githubusercontent.com/Aaks-hatH/Aaks-hatH/main/noskid/s7.png)
+![Learn Python 3](https://raw.githubusercontent.com/Aaks-hatH/Aaks-hatH/main/noskid/s3.png)
 
 ---
 
