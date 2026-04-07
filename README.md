@@ -81,7 +81,7 @@ Introduction to Ethical Hacking — Nov 2025
 
 Prompt Engineering: Cloud Computing & IoT Hacking in the Era of GenAI — Jan 2026
 
-![Prompt Engineering: Cloud Computing & IoT Hacking](https://raw.githubusercontent.com/Aaks-hatH/Aaks-hatH/main/noskid/s1.png)
+![Prompt Engineering: Cloud Computing & IoT Hacking](https://raw.githubusercontent.com/Aaks-hatH/Aaks-hatH/main/noskid/s6.png)
 
 Learn Python 3 — Mar 2026
 
