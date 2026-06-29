@@ -38,6 +38,29 @@ Built with Node.js, Express, MongoDB, Redis, Socket.IO, React, Vite, and Tailwin
 
 ---
 
+### clean-slop
+[npm](https://www.npmjs.com/package/clean-slop) — [GitHub](https://github.com/Aaks-hatH/clean-slop)
+
+A production readiness engine for JavaScript and TypeScript projects. Statically analyses codebases for the patterns that slip through code review — AI-generated shortcuts, security vulnerabilities, and reliability issues — before they reach production.
+
+**AI slop detection:** Flags empty catch blocks, fake validation, dead code, TODO stubs, giant functions, and excessive nesting — the fingerprints of unreviewed AI output.
+
+**Security scanning:** Detects hardcoded secrets, SQL injection, command injection, unsafe `eval`, weak cryptography, path traversal, dangerous CORS configuration, and prototype pollution.
+
+**Reliability checks:** Catches missing `await`, unhandled promise rejections, and infinite loop patterns.
+
+**Multiple output formats:** Text, JSON, Markdown, HTML, and SARIF — integrates with GitHub Code Scanning, CI pipelines, and editor tooling.
+
+```bash
+npx clean-slop check ./src
+```
+
+Built with TypeScript, `@typescript-eslint/typescript-estree`, and `@babel/parser`. Zero config required; supports `.clean-slop.json` for custom rule tuning.
+
+*MIT licensed. Open source.*
+
+---
+
 ### BrowserBricker
 [Control Panel](https://aaks-hath.github.io/Browser-Bricker-Panel/main) — [GitHub](https://github.com/Aaks-hatH/Browser-Bricker-Panel)
 
