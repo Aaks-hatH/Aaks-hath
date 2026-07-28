@@ -4,7 +4,7 @@ Ethical Hacker / Security Researcher, OSINT analyst, and full-stack developer.
 
 <p align="left">
   <a href="https://aakshat.me">
-    <img src="noskid/logo.svg" />
+    <img src="noskid/logo.svg" height="48" />
   </a>
 
   <a href="https://planitapp.onrender.com">
