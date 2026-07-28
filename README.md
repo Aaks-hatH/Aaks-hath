@@ -4,18 +4,23 @@ Ethical Hacker / Security Researcher, OSINT analyst, and full-stack developer.
 
 <p align="left">
   <a href="https://aakshat.me">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+    <img src="noskid/logo.svg" />
   </a>
+
   <a href="https://planitapp.onrender.com">
-    <img src="https://img.shields.io/badge/PlanIt-2563EB?style=for-the-badge&logo=rocket&logoColor=white" alt="PlanIt">
+    <img src="https://planitapp.onrender.com/pwa-192x192.png" height="48" />
   </a>
-  <a href="https://www.linkedin.com/in/aakshat-hariharan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+
+  <a href="https://linkedin.com/in/aakshat-hariharan">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
   </a>
+
   <a href="mailto:hariharanaakshat@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://skillicons.dev/icons?i=gmail" height="48" />
   </a>
 </p>
+
+
 
 I break things to understand them and build things that last. My work 
 spans offensive security. Web app pentesting, infrastructure assessment, 
